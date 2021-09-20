@@ -1,0 +1,25 @@
+body  {
+  background-image: url("https://wallpaperaccess.com/full/545792.jpg");
+  background-color: #cccccc;
+}
+
+
+#btn {
+  background-color: #1B9CFC;
+  color: white;
+  padding: 14px 40px;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+#btn1 {
+  background-color: green; 
+  color: white;
+  padding: 14px 40px;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
